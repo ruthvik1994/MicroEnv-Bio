@@ -1,0 +1,545 @@
+RESI GRD     0.00000
+GROUP
+ATOM DUM  NA                      0.   0.350
+RESI ALA     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT3     0.00            .70  2.06
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+ATOM HB3  HA      0.00             0   1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI ARG     1.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00            0    1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+ATOM CG   CT2     0.00            .53  2.175
+ATOM HG1  HA      0.00             0   1.32
+ATOM HG2  HA      0.00             0   1.32
+GROU Q
+ATOM CD   CT2     0.     0.10     .53  2.175       2.15213  2.31615
+ATOM HD1  HA      0.00             0   1.32
+ATOM HD2  HA      0.00             0   1.32
+ATOM NE   NC2    -0.55  -0.40   -1.825 1.85        1.86532  1.92501
+ATOM HE   HC      0.35   0.30     .00  0.2245      1.24455  1.28000
+ATOM CZ   C       0.30   0.50     .15  2.0000      1.83506  1.96128
+ATOM NH1  NC2    -0.95  -0.45   -1.428 1.85        1.80349  2.04156
+ATOM HH11 HC      0.45   0.35    0.0   0.2245      1.25962  1.28382
+ATOM HH12 HC      0.45   0.35    0.0   0.2256      1.18410  1.28000
+ATOM NH2  NC2    -0.95  -0.45   -1.428 1.85        1.77334  1.89023
+ATOM HH21 HC      0.45   0.35    0.0   0.2245      1.31368  1.34781
+ATOM HH22 HC      0.45   0.35    0.0   0.2245      1.31034  1.34384
+GROUP
+ATOM C    C       0.55            .00  2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI ASN     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00            0    1.32
+ATOM CG   CC      0.55           0.00  2.0
+ATOM OD1  O      -0.55          -1.143 1.7
+ATOM ND2  NH2    -0.60          -0.868 1.85
+ATOM HD21 H       0.30           0.    0.2245
+ATOM HD22 H       0.30           0.    0.2245
+GROUP
+ATOM C    C       0.55           0.    2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI ASP    -1.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROU Q
+ATOM CB   CT2    -0.09  -0.16     .53  2.175       2.18794  2.35519
+ATOM HB1  HA      0.00            0    1.32
+ATOM HB2  HA      0.00            0    1.32
+ATOM CG   CC      0.49   0.36    0.    2.0         2.13734  2.29997
+ATOM OD1  OC     -0.20  -0.60    -.645 1.7         1.57457  1.65766
+ATOM OD2  OC     -0.20  -0.60    -.645 1.7         1.57457  1.65766
+GROUP
+ATOM C    C       0.55           0.    2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI CYS     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT2     0.19            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+ATOM SG   S      -0.19           0.    2.0
+ATOM HG1  HS      0.00            0    0.45
+GROUP
+ATOM C    C       0.55           0.    2.0
+ATOM O    O      -0.55          -1.01  1.7
+
+RESI CY2     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT2     0.19            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+ATOM SG   S      -0.19           0.    2.0
+ATOM HG1  HS      0.00            0    0.45
+GROUP
+ATOM C    C       0.55           0.    2.0
+ATOM O    O      -0.55          -1.01  1.7
+
+RESI GLN     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00            0    1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00            0    1.32
+ATOM HB2  HA      0.00            0    1.32
+GROUP
+ATOM CG   CT2     0.00            .53  2.175
+ATOM HG1  HA      0.00             0   1.32
+ATOM HG2  HA      0.00             0   1.32
+ATOM CD   CC      0.55           0.    2.0
+ATOM OE1  O      -0.55          -1.143 1.7
+ATOM NE2  NH2    -0.60           -.868 1.85
+ATOM HE21 H       0.30           0.    0.2245
+ATOM HE22 H       0.30           0.    0.2245
+GROUP
+ATOM C    C       0.55           0.    2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI GLU    -1.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00            0    1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+GROU Q
+ATOM CG   CT2    -0.09  -0.16     .53  2.175       2.15927  2.32395
+ATOM HG1  HA      0.00            0    1.32
+ATOM HG2  HA      0.00            0    1.32
+ATOM CD   CC      0.49   0.36    0.    2.0         2.01455  2.16425
+ATOM OE1  OC     -0.20  -0.60    -.645 1.7         1.50328  1.57320
+ATOM OE2  OC     -0.20  -0.60    -.645 1.7         1.50328  1.57320
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI GLY     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT2     0.10            .53  2.175
+ATOM HA1  HB      0.00             0   1.32
+ATOM HA2  HB      0.00             0   1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI HSD     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM ND1  NR1    -0.40           -.068 1.85
+ATOM HD1  H       0.30            .10  0.2245
+ATOM CG   CPH1    0.10           -.068 1.80
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+ATOM NE2  NR2    -0.40           -.068 1.85
+ATOM CD2  CPH1    0.10           -.068 1.80
+ATOM HD2  HR3     0.00             0   1.468
+ATOM CE1  CPH2    0.30           -.068 1.80
+ATOM HE1  HR1     0.00            .10  0.91
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI HSE     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM NE2  NR1    -0.40           -.068 1.85
+ATOM HE2  H       0.30            .10  0.2245
+ATOM CD2  CPH1    0.10           -.068 1.8
+ATOM HD2  HR3     0.00             0   0.9
+ATOM ND1  NR2    -0.40           -.068 1.85
+ATOM CG   CPH1    0.10           -.068 1.8
+ATOM CE1  CPH2    0.30           -.068 1.8
+ATOM HE1  HR1     0.00            .10  1.468
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00            0    1.32
+ATOM HB2  HA      0.00            0    1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI HSP     1.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROU Q
+ATOM ND1  NR3    -0.40  -0.30   -.032  1.85        1.94186  2.08271
+ATOM HD1  H       0.15   0.35    0.10  0.2245      1.19541  1.28000
+ATOM NE2  NR3    -0.40  -0.30   -.032  1.85        1.84810  1.97621
+ATOM HE2  H       0.15   0.35    0.10  0.2245      1.25739  1.28119
+ATOM CE1  CPH2    0.30   0.45   -.032  1.8         2.10194  2.26110
+ATOM HE1  HR2     0.00           .10   0.9
+ATOM CD2  CPH1    0.10   0.20   -.032  1.8         2.20580  2.37458
+ATOM HD2  HR1     0.00            0    0.9
+ATOM CG   CPH1    0.10   0.15   -.032  1.8         2.41624  2.59980
+ATOM CB   CT2     0.     0.10    0.53  2.175       2.30478  2.48124
+ATOM HB1  HA      0.00            0    1.32
+ATOM HB2  HA      0.00            0    1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI HSC     1.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROU Q
+ATOM ND1  NR3    -0.40  -0.30   -.032  1.85        1.94186  2.08271
+ATOM HD1  H       0.15   0.35    0.10  0.2245      1.19541  1.28000
+ATOM NE2  NR3    -0.40  -0.30   -.032  1.85        1.84810  1.97621
+ATOM HE2  H       0.15   0.35    0.10  0.2245      1.25739  1.28119
+ATOM CE1  CPH2    0.30   0.45   -.032  1.8         2.10194  2.26110
+ATOM HE1  HR2     0.00           .10   0.9
+ATOM CD2  CPH1    0.10   0.20   -.032  1.8         2.20580  2.37458
+ATOM HD2  HR1     0.00            0    0.9
+ATOM CG   CPH1    0.10   0.15   -.032  1.8         2.41624  2.59980
+ATOM CB   CT2     0.     0.10    0.53  2.175       2.30478  2.48124
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI ILE     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT1     0.00            .24  2.275
+ATOM HB   HA      0.00             0   1.32
+ATOM CG2  CT3     0.00            .70  2.175
+ATOM HG21 HA      0.00             0   1.32
+ATOM HG22 HA      0.00             0   1.32
+ATOM HG23 HA      0.00             0   1.32
+ATOM CG1  CT2     0.00            .53  2.175
+ATOM HG11 HA      0.00             0   1.32
+ATOM HG12 HA      0.00             0   1.32
+ATOM CD   CT3     0.00            .70  2.06
+ATOM CD1  CT3     0.00            .70  2.06
+ATOM HD1  HA      0.00            0    1.32
+ATOM HD2  HA      0.00             0   1.32
+ATOM HD3  HA      0.00             0   1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI LEU     0.00000 
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00            0    1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00            0    1.32
+ATOM HB2  HA      0.00            0    1.32
+ATOM CG   CT1     0.00            .24  2.275
+ATOM HG   HA      0.00            0    1.32
+ATOM CD1  CT3     0.00            .70  2.06
+ATOM HD11 HA      0.00            0    1.32
+ATOM HD12 HA      0.00            0    1.32
+ATOM HD13 HA      0.00            0    1.32
+ATOM CD2  CT3     0.00            .70  2.06
+ATOM HD21 HA      0.00            0    1.32
+ATOM HD22 HA      0.00            0    1.32
+ATOM HD23 HA      0.00            0    1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI LYS     1.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT2     0.00           0.53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+ATOM CG   CT2     0.00           0.53  2.175
+ATOM HG1  HA      0.00             0   1.32
+ATOM HG2  HA      0.00             0   1.32
+ATOM CD   CT2     0.00           0.53  2.175
+ATOM HD1  HA      0.00             0   1.32
+ATOM HD2  HA      0.00             0   1.32
+GROU Q
+ATOM CE   CT2     0.16   0.25     .53  2.175       2.05503  2.20927
+ATOM HE1  HA      0.00             0   1.32
+ATOM HE2  HA      0.00             0   1.32
+ATOM NZ   NH3    -0.94  -0.30   -1.028 1.85        1.78739  1.90646
+ATOM HZ1  HC      0.26   0.35    0.    0.2245      1.34215  1.38161
+ATOM HZ2  HC      0.26   0.35    0.    0.2245      1.34215  1.38161
+ATOM HZ3  HC      0.26   0.35    0.    0.2245      1.34215  1.38161
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI ALY     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.60
+ATOM HN   H       0.25            .46  0.8000
+ATOM CA   CT1     0.10            .24  2.365
+ATOM HA   HB      0.00             0   0.00
+GROUP
+ATOM CB   CT2     0.00           0.53  2.235
+ATOM HB1  HA      0.00             0   0.00
+ATOM HB2  HA      0.00             0   0.00
+ATOM CG   CT2     0.00           0.53  2.235
+ATOM HG1  HA      0.00             0   0.00
+ATOM HG2  HA      0.00             0   0.00
+ATOM CD   CT2     0.00           0.53  2.235
+ATOM HD1  HA      0.00             0   0.00
+ATOM HD2  HA      0.00             0   0.00
+GROU
+ATOM CE   CT2     0.31   0.       .53  2.235       2.05503  2.20927
+ATOM HE1  HA      0.00             0   0.00
+ATOM HE2  HA      0.00             0   0.00
+ATOM NZ   NH2    -0.65          -1.028 1.60
+ATOM HZ   H       0.34           0.0   0.80
+ATOM CL   CC      0.51           0.0   2.1
+ATOM OL   O      -0.51          -1.01  1.6
+GROUP
+ATOM C    C       0.55            .0   2.1
+ATOM O    O      -0.55          -1.01  1.6
+GROUP
+ATOM CLY  CT3    -0.27            .70  2.165
+ATOM HL1  HA      0.09             0    0.
+ATOM HL2  HA      0.09             0    0.
+ATOM HL3  HA      0.09             0    0.
+RESI MET     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00            0    1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+GROUP
+ATOM CG   CT2     0.06            .53  2.175
+ATOM HG1  HA      0.00             0   1.32
+ATOM HG2  HA      0.00             0   1.32
+ATOM SD   S      -0.12           -.51  0
+ATOM CE   CT3     0.06            .70  2.06
+ATOM HE1  HA      0.00             0   1.32
+ATOM HE2  HA      0.00             0   1.32
+ATOM HE3  HA      0.00             0   1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI PHE     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+GROUP
+ATOM CG   CA      0.00            .314 1.9924
+ATOM CD1  CA      0.00            .314 1.9924
+ATOM HD1  HP      0.00             0   1.3582
+ATOM CD2  CA      0.00            .314 1.9924
+ATOM HD2  HP      0.00             0   1.3582
+ATOM CE1  CA      0.00            .314 1.9942
+ATOM HE1  HP      0.00             0   1.3582
+ATOM CE2  CA      0.00            .314 1.9942
+ATOM HE2  HP      0.00             0   1.3582
+ATOM CZ   CA      0.00            .314 1.9942
+ATOM HZ   HP      0.00             0   1.3582
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI PRO     0.00000
+GROUP
+ATOM N    N      -0.20          -1.01  1.85
+ATOM CA   CP1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+ATOM CD   CP3     0.10            .53  2.175
+ATOM HD1  HA      0.00             0   1.32
+ATOM HD2  HA      0.00             0   1.32
+GROUP
+ATOM CB   CP2     0.00            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+ATOM CG   CP2     0.00            .53  2.175
+ATOM HG1  HA      0.00             0   1.32
+ATOM HG2  HA      0.00             0   1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI SER     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT2     0.25            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+ATOM OG   OH1    -0.65          -1.491 1.77
+ATOM HG1  H       0.40           0.    0.2245
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI THR     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT1     0.25            .24  2.275
+ATOM HB   HA      0.00             0   1.32
+ATOM OG1  OH1    -0.65          -1.491 1.77
+ATOM HG1  H       0.40           0.    0.2245
+GROUP
+ATOM CG2  CT3     0.00            .70  1.9942
+ATOM HG21 HA      0.00             0   1.32
+ATOM HG22 HA      0.00             0   1.32
+ATOM HG23 HA      0.00             0   1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.0
+RESI TRP     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00             0   1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00             0   1.32
+ATOM HB2  HA      0.00             0   1.32
+GROUP
+ATOM CG   CY     -0.03            .222 1.9942
+ATOM CD2  CPT     0.10            .222 1.8
+ATOM CD1  CA      0.06            .222 1.9942
+ATOM HD1  HP      0.00              0  0
+ATOM NE1  NY     -0.36            .222 1.85
+ATOM HE1  H       0.30           0.10  0.2245
+ATOM CE2  CPT    -0.04            .222 1.80
+GROUP
+ATOM CE3  CA     -0.03            .222 1.9942
+ATOM HE3  HP      0.00              0  1.3582
+ATOM CZ2  CA      0.00            .222 1.9942
+ATOM HZ2  HP      0.00              0  1.3582
+ATOM CZ3  CA      0.00            .222 1.9942
+ATOM HZ3  HP      0.00              0  1.3582
+ATOM CH2  CA      0.00            .222 1.9942
+ATOM HH2  HP      0.00              0  1.3582
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI TYR     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00              0  1.32
+GROUP
+ATOM CB   CT2     0.00            .53  2.175
+ATOM HB1  HA      0.00              0  1.32
+ATOM HB2  HA      0.00              0  1.32
+GROUP
+ATOM CG   CA      0.00            .28  1.9942
+ATOM CD1  CA      0.00            .28  1.9942
+ATOM HD1  HP      0.00              0  1.3582
+ATOM CD2  CA      0.00            .28  1.9942
+ATOM HD2  HP      0.00              0  1.3582
+ATOM CE1  CA      0.00            .28  1.9942
+ATOM HE1  HP      0.00              0  1.3582
+ATOM CE2  CA      0.00            .28  1.9942
+ATOM HE2  HP      0.00              0  1.3582
+GROUP
+ATOM CZ   CA      0.25            .28  1.9942
+ATOM OH   OH1    -0.65           -.433 1.77
+ATOM HH   H       0.40           0.    0.2245
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI VAL     0.00000
+GROUP
+ATOM N    NH1    -0.35          -1.01  1.85
+ATOM HN   H       0.25            .46  0.2245
+ATOM CA   CT1     0.10            .24  2.275
+ATOM HA   HB      0.00              0  1.32
+GROUP
+ATOM CB   CT1     0.00            .24  2.275
+ATOM HB   HA      0.00              0  1.32
+ATOM CG1  CT3     0.00            .70  2.06
+ATOM HG11 HA      0.00              0  1.32
+ATOM HG12 HA      0.00              0  1.32
+ATOM HG13 HA      0.00              0  1.32
+ATOM CG2  CT3     0.00            .70  2.06
+ATOM HG21 HA      0.00              0  1.32
+ATOM HG22 HA      0.00              0  1.32
+ATOM HG23 HA      0.00              0  1.32
+GROUP
+ATOM C    C       0.55            .0   2.0
+ATOM O    O      -0.55          -1.01  1.7
+RESI NTER    1.00000
+GROU
+ATOM HT1  HC      0.26   0.35    0.    0.2245      1.35705  1.39931
+ATOM N    NH3    -0.94  -0.30   -1.028 1.85        1.81663  1.94012
+ATOM HT2  HC      0.26   0.35    0.    0.2245      1.35705  1.39931
+ATOM HT3  HC      0.26   0.35    0.    0.2245      1.35705  1.39931
+ATOM CA   CT1     0.16   0.25     .24  2.275       2.04585  2.19909
+ATOM HA   HB      0.00   0.00       0  1.32                 0.0
+RESI CTER   -1.00000
+GROU
+ATOM C    CC      0.40   0.14    0.    2.0         1.98661  2.13302
+ATOM OT1  OC     -0.20  -0.57    -.65  1.7         1.50019  1.56952
+ATOM OT2  OC     -0.20  -0.57    -.65  1.7         1.50019  1.56952
